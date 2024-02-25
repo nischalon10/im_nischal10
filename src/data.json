@@ -1,0 +1,79 @@
+[
+    {
+        "name": "help",
+        "description": "Here is a list of commands you can use",
+        "commands": [
+            {"cmdName": "about", "description": "my journey"},
+            {"cmdName": "projects", "description": "my work"},
+            {"cmdName": "skills", "description": "my expertise"},
+            {"cmdName": "resume", "description": "my latest one"},
+            {"cmdName": "boomer", "description": "same website with a UI"},
+            {"cmdName": "contact", "description": "get in touch with me"},
+            {"cmdName": "clear", "description": "clear the terminal"},
+            {"cmdName": "help*", "description": "list of commands you can use"},
+            {"cmdName": "exit", "description": "close this tab"}
+        ],
+        "links":[]
+    },
+    {
+        "name": "about",
+        "description": "Hello World! I am a senior at the University of South Florida(USF). I am passionate about Technology and I love to explore new things.",
+        "commands": [],
+        "links":[]
+    },
+    {
+        "name": "projects",
+        "description": "and still counting...",
+        "commands": [],
+        "links":[
+            {
+                "name": "Maskateer",
+                "url": "https://nischalon10.github.io/maskateer/"
+            },
+            {
+                "name": "Resumator",
+                "url": "https://github.com/nischalon10/resumator"
+            },
+            {
+                "name": "NuePhone",
+                "url": "https://www.behance.net/gallery/130394967/NeuPhone"
+            }
+        ]
+    },
+    {
+        "name": "skills",
+        "description": "adding new things every month...",
+        "commands": [
+            {"cmdName": "React", "description": "-****"},
+            {"cmdName": "PowerBI", "description": "*****"},
+            {"cmdName": "SQL", "description": "-****"},
+            {"cmdName": "Bash Scripting", "description": "--***"},
+            {"cmdName": "Git", "description": "-****"},
+            {"cmdName": "Latex", "description": "-***"}
+        ],
+        "links":[]
+    },
+    {
+        "name": "contact",
+        "description": "",
+        "commands": [],
+        "links":[
+            {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/in/nischaloletynagesh/"
+            },
+            {
+                "name": "Github",
+                "url": "https://github.com/nischalon10"
+            },
+            {
+                "name": "Twitter",
+                "url": "https://twitter.com/ONischal"
+            },
+            {
+                "name": "Mail",
+                "url": "mailto:nischalolety@usf.edu"
+            }
+        ]
+    }
+]

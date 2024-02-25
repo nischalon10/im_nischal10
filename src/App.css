@@ -1,0 +1,62 @@
+#root {
+  margin-left: 30%;
+  margin-right: 30%; 
+  /* text-align: center; */
+  margin-top: 10%;
+}
+
+
+.output {
+  font-family: 'Courier New', Courier, monospace;
+  color: greenyellow;
+  text-align: left;
+}
+
+form{
+  font-family: 'Courier New', Courier, monospace;
+  color: greenyellow;
+  font-size: larger;
+}
+
+form input[type="text"] {
+  font-family: 'Courier New', Courier, monospace;
+  color: greenyellow;
+  font-size: larger;
+  padding: 0.25em;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: transparent;
+  border: none;
+  caret: block;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+}
+
+form input[type="text"]::placeholder {
+  color: rgba(172, 255, 47, 0.5);
+}
+
+form input[type="text"]:focus {
+  outline: none;
+}
+
+form span {
+  font-weight: bold;
+  letter-spacing: 0.1em;
+}
+
+.command-container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.left{
+  font-weight: bold;
+}
+
+.output a{
+  color: greenyellow;
+  text-decoration: none;
+  text-decoration: underline;
+  font-weight: bold;
+}

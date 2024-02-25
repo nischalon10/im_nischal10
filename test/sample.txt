@@ -1,0 +1,9 @@
+Info
+    <Give some info about me>
+    l
+    m
+    g
+Projects
+    
+clear
+
