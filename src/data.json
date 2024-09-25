@@ -44,12 +44,12 @@
         "name": "skills",
         "description": "adding new things every month...",
         "commands": [
-            {"cmdName": "React", "description": "-****"},
+            {"cmdName": "React", "description": "****"},
             {"cmdName": "PowerBI", "description": "*****"},
-            {"cmdName": "SQL", "description": "-****"},
-            {"cmdName": "Bash Scripting", "description": "--***"},
-            {"cmdName": "Git", "description": "-****"},
-            {"cmdName": "Latex", "description": "-***"}
+            {"cmdName": "SQL", "description": "****"},
+            {"cmdName": "Bash Scripting", "description": "***"},
+            {"cmdName": "Git", "description": "****"},
+            {"cmdName": "Latex", "description": "***"}
         ],
         "links":[]
     },
